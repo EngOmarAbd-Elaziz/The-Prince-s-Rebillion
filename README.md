@@ -160,3 +160,11 @@ This project was built to practice:
 ## 🏁 Status
 
 🚧 **Work in Progress** — but the core gameplay loop is fully playable.
+
+---
+
+## 📄 Documentation
+
+A detailed report explaining the design decisions, architecture, and evolution of the project:
+
+👉 [Download Project Report](./docs/Prince-Rebellion-Report.pdf)
