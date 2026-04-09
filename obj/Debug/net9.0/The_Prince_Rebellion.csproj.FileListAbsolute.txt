@@ -1,0 +1,14 @@
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\bin\Debug\net9.0\The_Prince_Rebellion.exe
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\bin\Debug\net9.0\The_Prince_Rebellion.deps.json
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\bin\Debug\net9.0\The_Prince_Rebellion.runtimeconfig.json
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\bin\Debug\net9.0\The_Prince_Rebellion.dll
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\bin\Debug\net9.0\The_Prince_Rebellion.pdb
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\obj\Debug\net9.0\The_Prince_Rebellion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\obj\Debug\net9.0\The_Prince_Rebellion.AssemblyInfoInputs.cache
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\obj\Debug\net9.0\The_Prince_Rebellion.AssemblyInfo.cs
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\obj\Debug\net9.0\The_Prince_Rebellion.csproj.CoreCompileInputs.cache
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\obj\Debug\net9.0\The_Prince_Rebellion.dll
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\obj\Debug\net9.0\refint\The_Prince_Rebellion.dll
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\obj\Debug\net9.0\The_Prince_Rebellion.pdb
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\obj\Debug\net9.0\The_Prince_Rebellion.genruntimeconfig.cache
+D:\Programmes\Scripting Game\The_Prince_Rebellion\The_Prince_Rebellion\obj\Debug\net9.0\ref\The_Prince_Rebellion.dll
