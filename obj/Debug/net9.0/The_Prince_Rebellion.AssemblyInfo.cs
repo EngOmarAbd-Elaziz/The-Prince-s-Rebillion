@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The_Prince_Rebellion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0105cb16d73341c6c2b5f630176da92dcdd6291a")]
 [assembly: System.Reflection.AssemblyProductAttribute("The_Prince_Rebellion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The_Prince_Rebellion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
